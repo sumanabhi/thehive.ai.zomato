@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zomato_Search</string>
+    <string name="please_search_to_see_restaurant">Please search to see restaurant</string>
+    <string name="search">menu_search</string>
+    <string name="filter_item">filter</string>
+    <string name="search_hint">search_hint</string>
+    <string name="search_restaurant">Search Restaurant</string>
+</resources>
